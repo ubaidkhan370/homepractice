@@ -1,0 +1,73 @@
+{"icecream":
+[
+  {
+    "flavor": "Vanilla Bean",
+    "image": "https://media.istockphoto.com/id/1326143969/photo/bowl-with-vanilla-ice-cream-balls.jpg?s=1024x1024&w=is&k=20&c=5iNhBGaZZlRLxBdO_01enZqq2h_LFiaSIbHRruat8aE=",
+
+    "description": "Classic vanilla bean ice cream with a creamy texture and rich flavor.",
+    "toppings": ["chocolate syrup", "sprinkles", "whipped cream"],
+    "ingredients": [
+      {"name": "milk", "quantity": "1 liter"},
+      {"name": "cream", "quantity": "500 ml"},
+      {"name": "vanilla beans", "quantity": "2"},
+      {"name": "sugar", "quantity": "200 grams"}
+    ],
+    "price": 4.99
+  },
+  {
+    "flavor": "Chocolate Fudge Brownie",
+    "image" :"https://images.unsplash.com/photo-1683575755175-ee135650246a?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Decadent chocolate ice cream with chunks of chewy brownie and a swirl of fudge.",
+    "toppings": ["hot fudge", "chocolate chips", "whipped cream"],
+    "ingredients": [
+      {"name": "milk", "quantity": "1 liter"},
+      {"name": "cream", "quantity": "500 ml"},
+      {"name": "cocoa powder", "quantity": "100 grams"},
+      {"name": "brownie chunks", "quantity": "100 grams"},
+      {"name": "sugar", "quantity": "200 grams"}
+    ],
+    "price": 5.49
+  },
+  {
+    "flavor": "Strawberry Cheesecake",
+    "image" :"https://images.unsplash.com/photo-1496533141630-d6731a403292?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Creamy cheesecake ice cream with swirls of strawberry puree and graham cracker crust pieces.",
+    "toppings": ["strawberry sauce", "graham cracker crumbs", "whipped cream"],
+    "ingredients": [
+      {"name": "milk", "quantity": "1 liter"},
+      {"name": "cream", "quantity": "500 ml"},
+      {"name": "cream cheese", "quantity": "200 grams"},
+      {"name": "strawberry puree", "quantity": "150 grams"},
+      {"name": "sugar", "quantity": "200 grams"}
+    ],
+    "price": 5.99
+  },
+  {
+    "flavor": "Mint Chocolate Chip",
+    "image" :"https://images.unsplash.com/photo-1559329187-79d04171a646?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Refreshing mint ice cream loaded with chocolate chips for a perfect balance of mint and chocolate.",
+    "toppings": ["chocolate shavings", "mint leaves"],
+    "ingredients": [
+      {"name": "milk", "quantity": "1 liter"},
+      {"name": "cream", "quantity": "500 ml"},
+      {"name": "mint extract", "quantity": "1 tablespoon"},
+      {"name": "chocolate chips", "quantity": "100 grams"},
+      {"name": "sugar", "quantity": "200 grams"}
+    ],
+    "price": 4.79
+  },
+  {
+    "flavor": "Mango Sorbet",
+    "image" :"https://images.unsplash.com/photo-1579954115567-dff2eeb6fdeb?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A light and refreshing mango sorbet made with pureed mangoes for a tropical taste.",
+    "toppings": ["fresh mango slices", "mint leaves"],
+    "ingredients": [
+      {"name": "mango puree", "quantity": "500 grams"},
+      {"name": "water", "quantity": "300 ml"},
+      {"name": "sugar", "quantity": "150 grams"},
+      {"name": "lemon juice", "quantity": "2 tablespoons"}
+    ],
+    "price": 4.29
+  }
+]
+}
